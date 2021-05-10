@@ -1,4 +1,5 @@
-from models import config1, config2
-from models.experiments import exp
+  
+from Grand_Ethiopian_Renaissance_Dam import exp
+# from demos.System_Dynamics.Compartment_Models.seir.config import exp
 
-client_modules = [config1, config2]
+model_dir = 'dam-model'
